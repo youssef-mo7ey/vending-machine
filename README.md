@@ -1,3 +1,7 @@
+Youssef Ehab Mohy
+email: yusufehab2000@gmail.com
+phone: 01121144740
+
 This backend application satisfy all the requirements with jwt authentication
 
 1- you can register user with fields from "/api/auth/register" Not Protected
